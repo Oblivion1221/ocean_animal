@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 
-void encyclopedia(const Water_animal &animal)
+void encyclopedia(const WaterAnimal &animal)
 {
     std::cout << std::endl << std::endl;
     std::cout << "Hello, who are you?\n";
